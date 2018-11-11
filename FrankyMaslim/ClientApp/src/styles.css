@@ -16,7 +16,7 @@
 
 .card-flex-width {
     min-width: 200px;
-    max-width: 300px;
+    max-width: 350px;
     margin: 0 5px 0 5px;
 }
 
@@ -26,6 +26,12 @@
 
 .clear-float {
     clear: both;
+}
+
+.vertical-center {
+    display: inline-block;
+    vertical-align: middle !important;
+    float: none;
 }
 
 /* === card component ====== 
