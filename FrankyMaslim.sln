@@ -5,8 +5,6 @@ VisualStudioVersion = 15.0.28010.2050
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FrankyMaslim", "FrankyMaslim\FrankyMaslim.csproj", "{C06B9E8E-1197-4B29-8741-6812EE1554CD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FrankyMaslimAPI", "FrankyMaslimAPI\FrankyMaslimAPI.csproj", "{D22E6D51-28AC-4928-8CAA-E2302BDBFD5C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{C06B9E8E-1197-4B29-8741-6812EE1554CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C06B9E8E-1197-4B29-8741-6812EE1554CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C06B9E8E-1197-4B29-8741-6812EE1554CD}.Release|Any CPU.Build.0 = Release|Any CPU
-		{D22E6D51-28AC-4928-8CAA-E2302BDBFD5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D22E6D51-28AC-4928-8CAA-E2302BDBFD5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D22E6D51-28AC-4928-8CAA-E2302BDBFD5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D22E6D51-28AC-4928-8CAA-E2302BDBFD5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
