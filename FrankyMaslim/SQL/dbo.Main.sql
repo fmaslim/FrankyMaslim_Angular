@@ -1,0 +1,14 @@
+﻿CREATE TABLE [dbo].[Main]
+(
+	[MainID] INT NOT NULL PRIMARY KEY,
+	FirstName VARCHAR(100) NOT NULL,
+	LastName VARCHAR(100) NOT NULL,
+	Address VARCHAR(100),
+	City VARCHAR(50),
+	State VARCHAR(10),
+	ZipCode VARCHAR(10),
+	Phone VARCHAR(20),
+	Email VARCHAR(20),
+	Objective VARCHAR(MAX)
+)
+

@@ -1,0 +1,10 @@
+﻿CREATE TABLE [dbo].[Experiences]
+(
+	[ExperienceID] INT NOT NULL PRIMARY KEY,
+	JobTitleID INT NOT NULL REFERENCES [dbo].[JobTitles](JobTitleID),
+	WorkplaceName VARCHAR(500) NOT NULL,
+	City VARCHAR(100) NOT NULL,
+	State VARCHAR(50) NOT NULL,
+	StartDate VARCHAR(100) NOT NULL,
+	EndDate VARCHAR(100) NOT NULL
+)

@@ -1,13 +1,25 @@
 /* You can add global styles to this file, and also import other style files */
 
 .test-border-red {
-    border: 1px solid Red;
-    margin: 5px 0px 5px 0px;
+    border: 2px solid Red;
+    /*margin: 5px 0px 5px 0px;*/
 }
 
 .test-border-blue {
-    border: 1px solid Blue;
-    margin: 5px 0px 5px 0px;
+    border: 2px solid Blue;
+    /*margin: 5px 0px 5px 0px;*/
+}
+
+.test-border-green {
+  border: 2px solid Green;
+}
+
+.test-border-magenta {
+  border: 2px solid Magenta;
+}
+
+.test-border-yellow {
+  border: 2px solid #FFC300;
 }
 
 .container-padding {
